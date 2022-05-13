@@ -1,6 +1,6 @@
 ﻿# sort_int_array_js
  
- ### To sort thie int array without any function  followed this steps:
+ ### To sort an int array without any function  followed this steps:
  ### Main array: const arr = [9,6,2,1,4,8];
  ##### 1. I have created two auxiliar variables: aux1 and aux 2
  ##### 2. I have created two loos in order to loop the first position in the array which is 9 and
